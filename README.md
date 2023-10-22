@@ -1716,8 +1716,8 @@ commercially available industrial robot models that you can import, visualize, a
 
 ## Contacts
 
-      - Email:- Sp3130016@gmail.com
-      - Phone No.:- +91-8767296910
+- Email:- Sp3130016@gmail.com
+- Phone No.:- +91-8767296910
 
 
 ## License
